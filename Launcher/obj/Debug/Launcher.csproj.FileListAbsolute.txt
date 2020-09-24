@@ -1,0 +1,11 @@
+F:\Users\Morvin\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe.config
+F:\Users\Morvin\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe
+F:\Users\Morvin\source\repos\Launcher\Launcher\bin\Debug\Launcher.pdb
+F:\Users\Morvin\source\repos\Launcher\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+F:\Users\Morvin\source\repos\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+F:\Users\Morvin\source\repos\Launcher\Launcher\obj\Debug\Launcher.exe
+F:\Users\Morvin\source\repos\Launcher\Launcher\obj\Debug\Launcher.pdb
+F:\Users\Morvin\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe.manifest
+F:\Users\Morvin\source\repos\Launcher\Launcher\bin\Debug\Launcher.application
+F:\Users\Morvin\source\repos\Launcher\Launcher\obj\Debug\Launcher.exe.manifest
+F:\Users\Morvin\source\repos\Launcher\Launcher\obj\Debug\Launcher.application
