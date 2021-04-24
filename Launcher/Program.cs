@@ -60,7 +60,7 @@ namespace Launcher
             }
             if (input == null)
             {
-                Responses.SystemResponse("Choose something you nerd.");
+                Responses.SystemResponse("Why.... an Empty message ?");
                 Responses.UserResponse(false);
                 Close();
             }
