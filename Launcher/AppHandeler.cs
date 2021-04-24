@@ -7,6 +7,7 @@ using System.Diagnostics;
 
 namespace Launcher
 {
+    //Don't mind the typo here...
     class AppHandeler
     {
 
